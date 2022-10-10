@@ -15,8 +15,9 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript)
+  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
-  ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-token)
+  ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -33,10 +34,27 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🔧 &nbsp;
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=6F31C5)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
+
+  
   
 <br/>
 <a href="https://github.com/sheila-arello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheila-arello&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheila-arello&theme=buefy&layout=compact" />
 </a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sheila-arello/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/sheila_arello/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:sheila.arello@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [sheila_arello](https://github.com/sheila_arello)
