@@ -1,7 +1,9 @@
-## Olá! Eu sou Sheila Arello
+## Bem vindo ao repositório de Sheila Arello!
 
 ### Apaixonada pela sensação de criar novas soluções e o desafio de resolver problemas, resolvi me tornar uma pessoa desenvolvedora!
 
+<br/>
+<h3> 👨🏻‍💻 About Me </h3>
 
 - 🚀 Cursando desenvolvimento web full stack na Trybe(*) (término em nov/2022)
 - 💻 Atualmente no módulo de Ciência da Computação
@@ -34,10 +36,10 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🔧 &nbsp;
+- ☁️ &nbsp;
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=6F31C5)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 
   
   
@@ -50,8 +52,8 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<a href="https://www.linkedin.com/in/sheila-arello/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:sheila.arello@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/sheila-arello/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sheila--arello-blue?style=plastic-square&logo=linkedin"></a>
+<a href="mailto:sheila.arello@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sheila.arello@hotmail.com-blue?style=plastiic-square&logo=gmail"></a>
 
 <!--
 <div>
