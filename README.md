@@ -3,13 +3,16 @@
 ### Apaixonada pela sensação de criar novas soluções e o desafio de resolver problemas, resolvi me tornar uma pessoa desenvolvedora!
 
 <br/>
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🚀 Cursando desenvolvimento web full stack na Trybe(*) (término em nov/2022)
+Em transição de carreira, __finalizando o curso de Desenvolvimento Web Full Stack na TRYBE[^1]__, término previsto para NOV/2022. Tecnólogo em Sistemas para Internet (2019-2021) pela EAD UNICESUMAR. Possuo graduação em Engenharia Eletrônica com especialização em Automação Industrial pela FAAP (1985-1989). Tenho mais de dez anos de experiência de mercado na área de automação industrial e durante este tempo tive contato com linguagens de programação como Basic e Visual Basic, além dos sistemas SCADA especialistas para automação. Minha carreira foi baseada em projetos de automação industrial, contribuindo desde o desenvolvimento e implantação e mais tarde chegando ao gerenciamento destes projetos.
+
+
+- 🚀 Cursando desenvolvimento web full stack na Trybe (término em nov/2022)
 - 💻 Atualmente no módulo de Ciência da Computação
 - 🤔 Estou em busca de oportunidade em desenvolvimento backend
 
-###### *O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+[^1]:O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 ## 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -59,7 +62,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Contatos </h3>
 <a href="https://www.linkedin.com/in/sheila-arello/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sheila--arello-blue?style=plastic-square&logo=linkedin"></a>
 <a href="mailto:sheila.arello@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sheila.arello@hotmail.com-blue?style=plastiic-square&logo=gmail"></a>
 
